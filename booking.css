@@ -7,6 +7,7 @@
 .bg-body-tertiary{
     background:white !important;
 }
+
 .navbar-nav .nav-link.active:focus{
     background-color:rgb(200, 200, 245) ;
     color: rgba(59, 122, 240, 0.925);
